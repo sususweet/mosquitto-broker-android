@@ -137,6 +137,6 @@ nohup /system/bin/mosquitto -c /system/bin/mosquitto.conf &
 
 Now you have started an mosquitto broker on Android.
 
-![](F:\android_things\mosquitto-broker-android\logo\img1.png)
+![](./logo/img1.png)
 
-![](F:\android_things\mosquitto-broker-android\logo\img2.png)
+![](./logo/img2.png)
